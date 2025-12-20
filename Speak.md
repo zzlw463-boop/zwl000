@@ -49,7 +49,7 @@
   基于自然语言特征与语音节律特征，识别失语症患者。
 
 - **Linguistic Feature Analysis for Autism Spectrum Disorder Detection**  
-  *[paper]*  
+  *[paper][https://github.com/google/A2UI]*  
   从句法复杂度与词汇多样性角度分析语言障碍特征。
 
 - **Multimodal Language Disorder Classification Using Speech and Text**  
